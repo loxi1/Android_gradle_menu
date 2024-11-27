@@ -1,0 +1,6 @@
+[
+  {"id": 1, "empresa": "Cofaco", "anexo": "San Andres", "es_local": 1},
+  {"id": 2, "empresa": "Cofaco", "anexo": "El esta\u00f1os", "es_local": 0},
+  {"id": 3, "empresa": "Cititex", "anexo": "El esta\u00f1os", "es_local": 0},
+  {"id": 4, "empresa": "Cititex", "anexo": "Crisolita", "es_local": 0}
+]
